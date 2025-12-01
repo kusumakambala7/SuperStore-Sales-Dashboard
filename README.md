@@ -46,8 +46,14 @@ The goal of this dashboard is to provide a **clear business performance overview
 
 <img width="1192" height="670" alt="Screenshot 2025-11-30 182825" src="https://github.com/user-attachments/assets/f6d7bd2d-70e9-40e5-93d1-291b6878c2ed" />
 <img width="1120" height="629" alt="Screenshot 2025-12-01 151654" src="https://github.com/user-attachments/assets/b27d0ee5-d72c-442f-b470-abc9ad0a27ba" />
+
+---
+
 ##  Dataset Source
 This project uses the Global SuperStore Sample Dataset, commonly used for analytics learning
+
+---
+
 ##  Author
 **Kusuma Saisri**  
 Power BI | Data Analysis | Data Visualization
